@@ -1,0 +1,653 @@
+2024-08-21 10:46 - INFO: - 
+Running configs.
+2024-08-21 10:46 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 50
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset
+2024-08-21 10:46 - INFO: - Loading  dataset....
+2024-08-21 10:46 - INFO: - Getting textual features as CLIP's classifier...
+2024-08-21 10:47 - INFO: -  load  aux_features...
+2024-08-21 10:47 - INFO: - Constructing cache model by few-shot visual features and labels.
+2024-08-21 10:47 - INFO: - Loading clip features and labels from val set.
+2024-08-21 10:47 - INFO: - Loading aux features and labels from val set.
+2024-08-21 10:47 - INFO: - Loading clip features and labels from test set.
+2024-08-21 10:47 - INFO: - Loading aux features and labels from test set.
+2024-08-21 10:47 - INFO: - Correct predictions:11902 78.1689
+2024-08-21 10:47 - INFO: - Train Epoch: 1 / 50
+2024-08-21 10:47 - INFO: -  Acc: 0.9332 (1396.0/1496), Loss: 0.7908
+2024-08-21 10:47 - INFO: - Loss_aux: 0.4294, Loss_merge: 0.1208
+2024-08-21 10:47 - INFO: - ----- aux  val Acc: 80.5596 ----
+2024-08-21 10:47 - INFO: - ----- tip  val Acc: 78.9636 ----
+2024-08-21 10:47 - INFO: - ----- all  val Acc: 80.9077 -----
+2024-08-21 10:47 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:47 - INFO: - Train Epoch: 2 / 50
+2024-08-21 10:53 - INFO: - 
+Running configs.
+2024-08-21 10:53 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 50
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset
+2024-08-21 10:53 - INFO: - Loading  dataset....
+2024-08-21 10:53 - INFO: - Getting textual features as CLIP's classifier...
+2024-08-21 10:53 - INFO: -  load  aux_features...
+2024-08-21 10:53 - INFO: - Constructing cache model by few-shot visual features and labels.
+2024-08-21 10:53 - INFO: - Loading clip features and labels from val set.
+2024-08-21 10:53 - INFO: - Loading aux features and labels from val set.
+2024-08-21 10:53 - INFO: - Loading clip features and labels from test set.
+2024-08-21 10:53 - INFO: - Loading aux features and labels from test set.
+2024-08-21 10:53 - INFO: - Correct predictions:11902 78.1689
+2024-08-21 10:53 - INFO: - Train Epoch: 1 / 50
+2024-08-21 10:53 - INFO: -  Acc: 0.9291 (1390.0/1496), Loss: 0.7880
+2024-08-21 10:53 - INFO: - Loss_aux: 0.4274, Loss_merge: 0.1178
+2024-08-21 10:53 - INFO: - ----- aux  val Acc: 80.5990 ----
+2024-08-21 10:53 - INFO: - ----- tip  val Acc: 78.9570 ----
+2024-08-21 10:53 - INFO: - ----- all  val Acc: 81.0259 -----
+2024-08-21 10:53 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:53 - INFO: - Train Epoch: 2 / 50
+2024-08-21 10:53 - INFO: -  Acc: 0.9652 (1444.0/1496), Loss: 0.5165
+2024-08-21 10:53 - INFO: - Loss_aux: 0.1421, Loss_merge: 0.0688
+2024-08-21 10:53 - INFO: - ----- aux  val Acc: 80.7500 ----
+2024-08-21 10:53 - INFO: - ----- tip  val Acc: 79.0490 ----
+2024-08-21 10:53 - INFO: - ----- all  val Acc: 81.1835 -----
+2024-08-21 10:53 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:53 - INFO: - Train Epoch: 3 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9766 (1461.0/1496), Loss: 0.4317
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0554, Loss_merge: 0.0463
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8617 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.0490 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.3149 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 4 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9853 (1474.0/1496), Loss: 0.3999
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0250, Loss_merge: 0.0316
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.7894 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.0818 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.2886 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 5 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9906 (1482.0/1496), Loss: 0.3862
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0124, Loss_merge: 0.0242
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8420 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.1541 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.3805 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 6 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9953 (1489.0/1496), Loss: 0.3803
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0077, Loss_merge: 0.0183
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.9339 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.1869 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4593 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 7 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9940 (1487.0/1496), Loss: 0.3781
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0060, Loss_merge: 0.0162
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.9930 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2460 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4265 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 8 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9960 (1490.0/1496), Loss: 0.3778
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0059, Loss_merge: 0.0159
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8354 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.1935 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.2098 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 9 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9947 (1488.0/1496), Loss: 0.3768
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0052, Loss_merge: 0.0148
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8682 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2132 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.3740 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 10 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9953 (1489.0/1496), Loss: 0.3753
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0044, Loss_merge: 0.0122
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.9077 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2460 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4462 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 11 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9940 (1487.0/1496), Loss: 0.3766
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0054, Loss_merge: 0.0135
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.9930 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2723 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4199 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 12 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3730
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0034, Loss_merge: 0.0081
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.9208 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2789 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4462 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 13 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9980 (1493.0/1496), Loss: 0.3725
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0028, Loss_merge: 0.0082
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.7632 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2789 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.3477 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 14 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3721
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0025, Loss_merge: 0.0077
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 81.0193 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2986 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4002 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 15 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3716
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0026, Loss_merge: 0.0063
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8748 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.2920 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4396 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 16 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3709
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0021, Loss_merge: 0.0054
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8748 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.3248 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4528 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 17 / 50
+2024-08-21 10:54 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3708
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0021, Loss_merge: 0.0050
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.7369 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.3839 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.3214 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 18 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3730
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0044, Loss_merge: 0.0057
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8748 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.3774 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.3871 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 19 / 50
+2024-08-21 10:54 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3715
+2024-08-21 10:54 - INFO: - Loss_aux: 0.0027, Loss_merge: 0.0060
+2024-08-21 10:54 - INFO: - ----- aux  val Acc: 80.8748 ----
+2024-08-21 10:54 - INFO: - ----- tip  val Acc: 79.3248 ----
+2024-08-21 10:54 - INFO: - ----- all  val Acc: 81.4134 -----
+2024-08-21 10:54 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:54 - INFO: - Train Epoch: 20 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3712
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0024, Loss_merge: 0.0062
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.9011 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.3905 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5316 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 21 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3699
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0019, Loss_merge: 0.0036
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.8617 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4299 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.4856 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 22 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3711
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0027, Loss_merge: 0.0053
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.8551 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4234 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.3608 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 23 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3703
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0020, Loss_merge: 0.0049
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.8485 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4168 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5053 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 24 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3697
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0018, Loss_merge: 0.0036
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7500 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4496 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.3740 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 25 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3696
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0017, Loss_merge: 0.0039
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7829 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4759 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.4790 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 26 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3692
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0012, Loss_merge: 0.0043
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.6975 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4759 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.4725 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 27 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3699
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0019, Loss_merge: 0.0046
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.8880 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.5153 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.6038 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 28 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3689
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0011, Loss_merge: 0.0038
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7632 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.5350 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5053 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 29 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3684
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0010, Loss_merge: 0.0030
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7500 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.4890 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5185 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 30 / 50
+2024-08-21 10:55 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3683
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0009, Loss_merge: 0.0032
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7172 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.5087 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5513 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 31 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3683
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0009, Loss_merge: 0.0033
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7303 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.5678 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5513 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 32 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3681
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0008, Loss_merge: 0.0035
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.6581 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.5744 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5447 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 33 / 50
+2024-08-21 10:55 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3676
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0008, Loss_merge: 0.0021
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.7566 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.5875 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.4922 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 34 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3677
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0009, Loss_merge: 0.0022
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.5661 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.6335 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.4856 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 35 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3683
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0014, Loss_merge: 0.0028
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.6187 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.6401 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.6432 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 36 / 50
+2024-08-21 10:55 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3681
+2024-08-21 10:55 - INFO: - Loss_aux: 0.0014, Loss_merge: 0.0027
+2024-08-21 10:55 - INFO: - ----- aux  val Acc: 80.5858 ----
+2024-08-21 10:55 - INFO: - ----- tip  val Acc: 79.6467 ----
+2024-08-21 10:55 - INFO: - ----- all  val Acc: 81.5907 -----
+2024-08-21 10:55 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:55 - INFO: - Train Epoch: 37 / 50
+2024-08-21 10:56 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3674
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0007, Loss_merge: 0.0026
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.7303 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.6861 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4331 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 38 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3678
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0013, Loss_merge: 0.0026
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.6581 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.6992 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4199 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 39 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3678
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0014, Loss_merge: 0.0024
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.7303 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.6598 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4199 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 40 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3677
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0013, Loss_merge: 0.0033
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.6252 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.6335 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4856 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 41 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3670
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0009, Loss_merge: 0.0025
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.4873 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.6072 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4265 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 42 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3672
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0013, Loss_merge: 0.0026
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5924 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.5810 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4593 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 43 / 50
+2024-08-21 10:56 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3667
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0009, Loss_merge: 0.0026
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5727 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.5087 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.3740 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 44 / 50
+2024-08-21 10:56 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3663
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0008, Loss_merge: 0.0022
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5858 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.4102 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.5053 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 45 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9987 (1494.0/1496), Loss: 0.3669
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0017, Loss_merge: 0.0025
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5005 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.3577 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4331 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 46 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9980 (1493.0/1496), Loss: 0.3669
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0016, Loss_merge: 0.0038
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5661 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.3380 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4396 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 47 / 50
+2024-08-21 10:56 - INFO: -  Acc: 0.9993 (1495.0/1496), Loss: 0.3658
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0014, Loss_merge: 0.0021
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5530 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.3051 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4331 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 48 / 50
+2024-08-21 10:56 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3644
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0005, Loss_merge: 0.0021
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5661 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.2723 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4462 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 49 / 50
+2024-08-21 10:56 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3641
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0006, Loss_merge: 0.0022
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.6055 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.2526 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.4134 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - Train Epoch: 50 / 50
+2024-08-21 10:56 - INFO: -  Acc: 1.0000 (1496.0/1496), Loss: 0.3632
+2024-08-21 10:56 - INFO: - Loss_aux: 0.0007, Loss_merge: 0.0014
+2024-08-21 10:56 - INFO: - ----- aux  val Acc: 80.5990 ----
+2024-08-21 10:56 - INFO: - ----- tip  val Acc: 79.1606 ----
+2024-08-21 10:56 - INFO: - ----- all  val Acc: 81.3346 -----
+2024-08-21 10:56 - INFO: - -----开始提取伪标签----- 
+2024-08-21 10:56 - INFO: - ----- Best Test Acc: 0.9293, at epoch: 40.-----
+
+2024-08-21 10:57 - INFO: - 
+Running configs.
+2024-08-21 10:57 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 20
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset
+2024-08-21 10:57 - INFO: - Loading  dataset....
+2024-08-21 10:57 - INFO: - Getting textual features as CLIP's classifier...
+2024-08-21 10:57 - INFO: -  load  aux_features...
+2024-08-21 10:57 - INFO: - Loading clip features and labels from val set.
+2024-08-21 10:57 - INFO: - Loading aux features and labels from val set.
+2024-08-21 10:57 - INFO: - Loading clip features and labels from test set.
+2024-08-21 10:57 - INFO: - Loading aux features and labels from test set.
+2024-08-21 10:57 - INFO: - Train Epoch: 1 / 20
+2024-08-21 10:58 - INFO: - Acc: 0.9472 (7085.0/7480), Loss: 0.3595
+2024-08-21 10:58 - INFO: - Loss_aux: 0.4692, Loss_merge: 0.1034
+2024-08-21 10:58 - INFO: - ----- aux  val Acc: 81.3608 ----
+2024-08-21 10:58 - INFO: - ----- all  val Acc: 81.3608 -----
+2024-08-21 10:58 - INFO: - -----开始保存权重----- 
+2024-08-21 10:58 - INFO: - Train Epoch: 2 / 20
+2024-08-21 10:58 - INFO: - Acc: 0.9737 (7283.0/7480), Loss: 0.1709
+2024-08-21 10:58 - INFO: - Loss_aux: 0.2183, Loss_merge: 0.0605
+2024-08-21 10:58 - INFO: - ----- aux  val Acc: 81.7286 ----
+2024-08-21 10:58 - INFO: - ----- all  val Acc: 81.7286 -----
+2024-08-21 10:58 - INFO: - -----开始保存权重----- 
+2024-08-21 10:58 - INFO: - Train Epoch: 3 / 20
+2024-08-21 10:58 - INFO: - Acc: 0.9824 (7348.0/7480), Loss: 0.1061
+2024-08-21 10:58 - INFO: - Loss_aux: 0.1333, Loss_merge: 0.0428
+2024-08-21 10:58 - INFO: - ----- aux  val Acc: 81.8994 ----
+2024-08-21 10:58 - INFO: - ----- all  val Acc: 81.8994 -----
+2024-08-21 10:58 - INFO: - -----开始保存权重----- 
+2024-08-21 10:58 - INFO: - Train Epoch: 4 / 20
+2024-08-21 10:59 - INFO: - Acc: 0.9868 (7381.0/7480), Loss: 0.0709
+2024-08-21 10:59 - INFO: - Loss_aux: 0.0868, Loss_merge: 0.0339
+2024-08-21 10:59 - INFO: - ----- aux  val Acc: 81.6826 ----
+2024-08-21 10:59 - INFO: - ----- all  val Acc: 81.6826 -----
+2024-08-21 10:59 - INFO: - Train Epoch: 5 / 20
+2024-08-21 10:59 - INFO: - Acc: 0.9893 (7400.0/7480), Loss: 0.0489
+2024-08-21 10:59 - INFO: - Loss_aux: 0.0578, Loss_merge: 0.0281
+2024-08-21 10:59 - INFO: - ----- aux  val Acc: 81.8403 ----
+2024-08-21 10:59 - INFO: - ----- all  val Acc: 81.8403 -----
+2024-08-21 10:59 - INFO: - Train Epoch: 6 / 20
+2024-08-21 10:59 - INFO: - Acc: 0.9933 (7430.0/7480), Loss: 0.0346
+2024-08-21 10:59 - INFO: - Loss_aux: 0.0402, Loss_merge: 0.0215
+2024-08-21 10:59 - INFO: - ----- aux  val Acc: 81.9322 ----
+2024-08-21 10:59 - INFO: - ----- all  val Acc: 81.9322 -----
+2024-08-21 10:59 - INFO: - -----开始保存权重----- 
+2024-08-21 10:59 - INFO: - Train Epoch: 7 / 20
+2024-08-21 10:59 - INFO: - Acc: 0.9955 (7446.0/7480), Loss: 0.0257
+2024-08-21 10:59 - INFO: - Loss_aux: 0.0289, Loss_merge: 0.0183
+2024-08-21 10:59 - INFO: - ----- aux  val Acc: 81.9519 ----
+2024-08-21 10:59 - INFO: - ----- all  val Acc: 81.9519 -----
+2024-08-21 10:59 - INFO: - -----开始保存权重----- 
+2024-08-21 10:59 - INFO: - Train Epoch: 8 / 20
+2024-08-21 11:00 - INFO: - Acc: 0.9949 (7442.0/7480), Loss: 0.0218
+2024-08-21 11:00 - INFO: - Loss_aux: 0.0237, Loss_merge: 0.0176
+2024-08-21 11:00 - INFO: - ----- aux  val Acc: 82.0176 ----
+2024-08-21 11:00 - INFO: - ----- all  val Acc: 82.0176 -----
+2024-08-21 11:00 - INFO: - -----开始保存权重----- 
+2024-08-21 11:00 - INFO: - Train Epoch: 9 / 20
+2024-08-21 11:00 - INFO: - Acc: 0.9959 (7449.0/7480), Loss: 0.0185
+2024-08-21 11:00 - INFO: - Loss_aux: 0.0201, Loss_merge: 0.0148
+2024-08-21 11:00 - INFO: - ----- aux  val Acc: 82.0373 ----
+2024-08-21 11:00 - INFO: - ----- all  val Acc: 82.0373 -----
+2024-08-21 11:00 - INFO: - -----开始保存权重----- 
+2024-08-21 11:00 - INFO: - Train Epoch: 10 / 20
+2024-08-21 11:00 - INFO: - Acc: 0.9972 (7459.0/7480), Loss: 0.0145
+2024-08-21 11:00 - INFO: - Loss_aux: 0.0153, Loss_merge: 0.0126
+2024-08-21 11:00 - INFO: - ----- aux  val Acc: 82.0701 ----
+2024-08-21 11:00 - INFO: - ----- all  val Acc: 82.0701 -----
+2024-08-21 11:00 - INFO: - -----开始保存权重----- 
+2024-08-21 11:00 - INFO: - Train Epoch: 11 / 20
+2024-08-21 11:01 - INFO: - Acc: 0.9965 (7454.0/7480), Loss: 0.0148
+2024-08-21 11:01 - INFO: - Loss_aux: 0.0151, Loss_merge: 0.0139
+2024-08-21 11:01 - INFO: - ----- aux  val Acc: 82.1096 ----
+2024-08-21 11:01 - INFO: - ----- all  val Acc: 82.1096 -----
+2024-08-21 11:01 - INFO: - -----开始保存权重----- 
+2024-08-21 11:01 - INFO: - Train Epoch: 12 / 20
+2024-08-21 11:01 - INFO: - Acc: 0.9964 (7453.0/7480), Loss: 0.0131
+2024-08-21 11:01 - INFO: - Loss_aux: 0.0133, Loss_merge: 0.0126
+2024-08-21 11:01 - INFO: - ----- aux  val Acc: 82.1490 ----
+2024-08-21 11:01 - INFO: - ----- all  val Acc: 82.1490 -----
+2024-08-21 11:01 - INFO: - -----开始保存权重----- 
+2024-08-21 11:01 - INFO: - Train Epoch: 13 / 20
+2024-08-21 11:01 - INFO: - Acc: 0.9971 (7458.0/7480), Loss: 0.0127
+2024-08-21 11:01 - INFO: - Loss_aux: 0.0128, Loss_merge: 0.0124
+2024-08-21 11:01 - INFO: - ----- aux  val Acc: 81.9651 ----
+2024-08-21 11:01 - INFO: - ----- all  val Acc: 81.9651 -----
+2024-08-21 11:01 - INFO: - Train Epoch: 14 / 20
+2024-08-21 11:01 - INFO: - Acc: 0.9981 (7466.0/7480), Loss: 0.0105
+2024-08-21 11:01 - INFO: - Loss_aux: 0.0107, Loss_merge: 0.0101
+2024-08-21 11:01 - INFO: - ----- aux  val Acc: 82.0701 ----
+2024-08-21 11:01 - INFO: - ----- all  val Acc: 82.0701 -----
+2024-08-21 11:01 - INFO: - Train Epoch: 15 / 20
+2024-08-21 11:02 - INFO: - Acc: 0.9981 (7466.0/7480), Loss: 0.0103
+2024-08-21 11:02 - INFO: - Loss_aux: 0.0104, Loss_merge: 0.0100
+2024-08-21 11:02 - INFO: - ----- aux  val Acc: 82.0898 ----
+2024-08-21 11:02 - INFO: - ----- all  val Acc: 82.0898 -----
+2024-08-21 11:02 - INFO: - Train Epoch: 16 / 20
+2024-08-21 11:02 - INFO: - Acc: 0.9977 (7463.0/7480), Loss: 0.0094
+2024-08-21 11:02 - INFO: - Loss_aux: 0.0093, Loss_merge: 0.0097
+2024-08-21 11:02 - INFO: - ----- aux  val Acc: 82.0636 ----
+2024-08-21 11:02 - INFO: - ----- all  val Acc: 82.0636 -----
+2024-08-21 11:02 - INFO: - Train Epoch: 17 / 20
+2024-08-21 11:02 - INFO: - Acc: 0.9967 (7455.0/7480), Loss: 0.0100
+2024-08-21 11:02 - INFO: - Loss_aux: 0.0099, Loss_merge: 0.0100
+2024-08-21 11:02 - INFO: - ----- aux  val Acc: 81.9979 ----
+2024-08-21 11:02 - INFO: - ----- all  val Acc: 81.9979 -----
+2024-08-21 11:02 - INFO: - Train Epoch: 18 / 20
+2024-08-21 11:03 - INFO: - Acc: 0.9980 (7465.0/7480), Loss: 0.0102
+2024-08-21 11:03 - INFO: - Loss_aux: 0.0104, Loss_merge: 0.0097
+2024-08-21 11:03 - INFO: - ----- aux  val Acc: 81.9716 ----
+2024-08-21 11:03 - INFO: - ----- all  val Acc: 81.9716 -----
+2024-08-21 11:03 - INFO: - Train Epoch: 19 / 20
+2024-08-21 11:03 - INFO: - Acc: 0.9976 (7462.0/7480), Loss: 0.0098
+2024-08-21 11:03 - INFO: - Loss_aux: 0.0100, Loss_merge: 0.0093
+2024-08-21 11:03 - INFO: - ----- aux  val Acc: 82.0242 ----
+2024-08-21 11:03 - INFO: - ----- all  val Acc: 82.0242 -----
+2024-08-21 11:03 - INFO: - Train Epoch: 20 / 20
+2024-08-21 11:03 - INFO: - Acc: 0.9977 (7463.0/7480), Loss: 0.0097
+2024-08-21 11:03 - INFO: - Loss_aux: 0.0096, Loss_merge: 0.0100
+2024-08-21 11:03 - INFO: - ----- aux  val Acc: 81.9651 ----
+2024-08-21 11:03 - INFO: - ----- all  val Acc: 81.9651 -----
+2024-08-21 11:03 - INFO: - ----- Best Test Acc: 82.1490, at epoch: 12.-----
+
+2024-08-21 12:08 - INFO: - 
+Running configs.
+2024-08-21 12:08 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 50
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset
+2024-08-21 12:09 - INFO: - Loading  dataset....
+2024-08-21 12:09 - INFO: - Getting textual features as CLIP's classifier...
+2024-08-21 12:10 - INFO: -  load  aux_features...
+2024-08-21 12:10 - INFO: - Constructing cache model by few-shot visual features and labels.
+2024-08-21 12:10 - INFO: - Loading clip features and labels from val set.
+2024-08-21 12:10 - INFO: - Loading aux features and labels from val set.
+2024-08-21 12:10 - INFO: - Loading clip features and labels from test set.
+2024-08-21 12:10 - INFO: - Loading aux features and labels from test set.
+2024-08-21 12:11 - INFO: - Correct predictions:11902 78.1689
+2024-08-21 12:13 - INFO: - 
+Running configs.
+2024-08-21 12:13 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 20
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset
+2024-08-21 12:13 - INFO: - Loading  dataset....
+2024-08-21 12:13 - INFO: - Getting textual features as CLIP's classifier...
+2024-08-21 12:14 - INFO: -  load  aux_features...
+2024-08-21 12:14 - INFO: - Loading clip features and labels from val set.
+2024-08-21 12:14 - INFO: - Loading aux features and labels from val set.
+2024-08-21 12:14 - INFO: - Loading clip features and labels from test set.
+2024-08-21 12:14 - INFO: - Loading aux features and labels from test set.
+2024-08-21 12:21 - INFO: - 
+Running configs.
+2024-08-21 12:21 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 50
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset
+2024-08-21 12:22 - INFO: - 
+Running configs.
+2024-08-21 12:22 - INFO: - dataset             : trainset
+shots               : 4
+root_path           : /root/lanyun-tmp
+rand_seed           : 42
+train_epoch         : 50
+lr                  : 0.001
+load_pre_feat       : True
+load_aux_weight     : True
+load_cache          : True
+clip_backbone       : ViT-B-32
+num_classes         : 374
+augment_epoch       : 10
+alpha               : 0.5
+alphatip            : 2.0
+lambda_merge        : 0.3
+uncent_type         : moment
+uncent_power        : 0.4
+cache_dir           : ./caches/trainset

@@ -1,0 +1,403 @@
+A photo of a bear, a type of animal.
+A photo of a bee, a type of animal.
+A photo of a bird, a type of animal.
+A photo of a butterfly, a type of animal.
+A photo of a camel, a type of animal.
+A photo of a caribou, a type of animal.
+A photo of a cat, a type of animal.
+A photo of a chicken, a type of animal.
+A photo of a cow, a type of animal.
+A photo of a deer, a type of animal.
+A photo of a dolphin, a type of animal.
+A photo of a donkey, a type of animal.
+A photo of a duck, a type of animal.
+A photo of an eagle, a type of animal.
+A photo of an elephant, a type of animal.
+A photo of an elk, a type of animal.
+A photo of a fish, a type of animal.
+A photo of a flamingo, a type of animal.
+A photo of a fox, a type of animal.
+A photo of a giraffe, a type of animal.
+A photo of a goose, a type of animal.
+A photo of a hippopotamus, a type of animal.
+A photo of a horse, a type of animal.
+A photo of a kangaroo, a type of animal.
+A photo of a koala, a type of animal.
+A photo of a leopard, a type of animal.
+A photo of a lion, a type of animal.
+A photo of a llama, a type of animal.
+A photo of a monkey, a type of animal.
+A photo of an orangutan, a type of animal.
+A photo of an otter, a type of animal.
+A photo of an owl, a type of animal.
+A photo of a panda, a type of animal.
+A photo of a peacock, a type of animal.
+A photo of a penguin, a type of animal.
+A photo of pig, featuring a distinctive snout that's broad and flat,curly tail.
+A photo of a pigeon, a type of animal.
+A photo of a polar bear, a type of animal.
+A photo of a rabbit, a type of animal. 
+A photo of a raccoon, a type of animal.
+A photo of a rhinoceros, a type of animal.
+A photo of a sea lion, a type of animal. Usually there are small ear flaps on the head.
+A photo of a seal, a type of animal.Usually a smooth head.
+A photo of a shark, a type of animal. Or a piece of graffiti with the word "shake" on it.
+A photo of a sheep, a type of animal.
+A photo of a sparrow, a type of animal.
+A photo of a squirrel, a type of animal.
+A photo of a swan, a type of animal.
+A photo of a tiger, a type of animal.
+A photo of a whale, a type of animal. 
+A photo of a wolf, a type of animal.
+A photo of a zebra, a type of animal.
+A photo of a person with additional background elements, not centered like an ID photo.
+A centered portrait of a person's face in an ID photo style.
+A photo of a leopard. Leopard is a medium-sized big cat with spots.
+A photo of a motorbike. Motorbike is a two-wheeled vehicle with engine.
+A photo of an accordion. Accordion is a musical instrument with keys and bellows.
+A photo of an airplane. Airplane is a flying vehicle with wings and engines.
+A photo of an anchor. Or a graphic of a boat anchor, crafts, and other objects.
+A photo of an ant.  Or a graphic of an ant, crafts, and other objects.
+A photo of a barrel. Barrel is a cylindrical container often used for storage.
+A photo of a bass. Bass is a musical instrument with strings.
+A photo of a beaver. Beaver is a large rodent with flat tail.
+A photo of binoculars. Binoculars are optical instruments for viewing distant objects.
+A photo of a bonsai tree. Bonsai is a miniature tree cultivated in a pot.
+A photo of a brain. Brain is an organ inside the skull responsible for thought and coordination.
+A photo of a brontosaurus. Brontosaurus is a large dinosaur with long neck and tail.
+A photo of a Buddha statue. Buddha is a figure representing enlightenment in Buddhism.
+A photo of a camera. Camera is a device used to capture images.
+A photo of a cannon. Cannon is a large gun used for warfare.
+A photo of a car's side. It's a black-and-white photo of an old, dull car.
+A photo of a ceiling fan. Ceiling fan is a device for circulating air.
+A photo of a cellphone. Cellphone is a mobile communication device.
+A photo of a chair. Chair is a piece of furniture for sitting.
+A photo of a chandelier. Chandelier is a decorative light fixture suspended from ceiling.
+A photo of a cougar. Cougar is a large cat with sleek body.
+A photo of a cougar face. Cougar is a large cat with distinctive facial features.
+A photo of a crab. Crab is a crustacean with hard shell and claws.
+A photo of a crayfish. Crayfish is a freshwater crustacean resembling a small lobster.
+A photo of a crocodile. Crocodile is a large reptile with long jaws.
+A photo of a crocodile head. Crocodile is a large reptile with distinctive head shape.
+A photo of a cup. Cup is a small container for drinking.
+A photo of a Dalmatian. Dalmatian is a dog breed with spotted coat.
+A photo of a dollar bill. Dollar bill is a form of currency.
+A photo of a dragonfly. Dragonfly is an insect with long wings.
+A photo of an electric guitar. Electric guitar is a stringed musical instrument.
+A photo of an emu. Emu is a large flightless bird.
+A photo of a euphonium. Euphonium is a musical instrument similar to a tuba.
+A photo of an ewer. Ewer is a decorative pitcher with a handle.
+A photo of a ferry. Ferry is a boat used to transport passengers and vehicles.
+A photo of Garfield. Garfield is a cartoon cat character.
+A photo of a gerenuk. Gerenuk is a long-necked antelope.
+A photo of a gramophone. Gramophone is an old-fashioned record player.
+A photo of a grand piano. Grand piano is a large musical instrument with strings.
+A photo of a hawksbill turtle. Hawksbill is a sea turtle with distinctive beak.
+A photo of headphones. 
+A photo of a hedgehog. Hedgehog is a small spiny mammal.
+A photo of a helicopter. Helicopter is an aircraft with rotating blades.
+A photo of an ibis. Ibis is a long-legged bird.
+A photo of inline skates. Inline skates are roller skates with wheels in line.
+A photo of a Joshua tree. Joshua tree is a tree native to southwestern U.S.
+A photo of a ketch. Ketch is a sailing boat with two masts.
+A photo of a lamp. Lamp is a device for producing light.
+A photo of a laptop. Laptop is a portable computer.
+A photo of a lobster. Lobster is a marine crustacean with claws.
+A photo of a lotus flower. Lotus is a water plant with large flowers.
+A photo of a mandolin. Mandolin is a stringed musical instrument.
+A photo of a mayfly. Mayfly is an insect with delicate wings.
+A photo of a menorah. Menorah is a candelabra used in Jewish tradition.
+A photo of a metronome. Metronome is a device for keeping time in music.
+A photo of a minaret. Minaret is a tall tower in Islamic architecture.
+A photo of a nautilus. Nautilus is a marine mollusk with spiral shell.
+A photo of an octopus. Octopus is a marine creature with eight arms.
+A photo of an okapi. Okapi is a forest giraffe with zebra-like stripes.
+A photo of a pagoda. Pagoda is a multi-tiered tower in East Asia.
+A photo of a platypus. Platypus is a mammal with duckbill and webbed feet.
+A photo of a pyramid. Pyramid is a structure with triangular sides.
+A photo of a revolver. Revolver is a handgun with a rotating cylinder.
+A photo of a rhinoceros. Rhino is a large animal with horn on nose.
+A photo of a rooster. Rooster is a male chicken with colorful feathers.
+A photo of a saxophone. Saxophone is a musical instrument with brass body.
+A photo of a schooner. Schooner is a sailing ship with multiple masts.
+A photo of scissors. Scissors are cutting tools with two blades.
+A photo of a scorpion. Scorpion is an arachnid with pincers and tail.
+A photo of a seahorse. Seahorse is a marine fish with upright posture.
+A photo of Snoopy. Snoopy is a cartoon dog character.
+A photo of a soccer ball. Soccer ball is a round object used in soccer.
+A photo of a stapler. Stapler is a device for fastening papers together.
+A photo of a starfish. Starfish is a marine creature with five arms.
+A photo of a stegosaurus. Stegosaurus is a herbivorous dinosaur with plates on back.
+A photo of a stop sign. Stop sign is a traffic sign for halting vehicles.
+A photo of a strawberry. Strawberry is a red fruit with seeds on its surface.
+A photo of a sunflower. Sunflower is a tall plant with large yellow flowers.
+A photo of a tick. A tick is a small, oval-shaped arachnid with eight legs and a hard, reddish-brown to dark brown body. Its body may turn grayish and swollen after feeding.
+A photo of a trilobite. Trilobite is an extinct marine arthropod.
+A photo of an umbrella. Umbrella is a device for protection against rain or sun.
+A photo of a watch. 
+A photo of a water lily. Water lily is a floating plant with beautiful flowers.
+A photo of a wheelchair. Wheelchair is a device for mobility assistance.
+A photo of a wild cat. Wild cat is a feline species found in the wild.
+A photo of a Windsor chair. Windsor chair is a traditional wooden chair.
+A photo of a wrench. Wrench is a tool for tightening or loosening bolts.
+A photo of yin-yang symbol. Yin-yang represents harmony and balance in Taoism.
+A photo of an apple pie. Apple pie is a dessert with a flaky crust and apple filling, a type of food.
+A photo of baby back ribs. Baby back ribs are pork ribs often barbecued, a type of food.
+A photo of baklava. Baklava is a sweet pastry made of layers of filo filled with nuts and honey, a type of food.
+A photo of beef carpaccio. Beef carpaccio is thinly sliced raw beef served with sauce, a type of food.
+A photo of beef tartare. Beef tartare is finely chopped raw beef seasoned with spices, a type of food.
+A photo of beet salad. Beet salad is a dish made with roasted or boiled beets, a type of food.
+A photo of beignets. Beignets are deep-fried doughnuts sprinkled with powdered sugar, a type of food.
+A photo of bibimbap. Bibimbap is a Korean mixed rice dish with vegetables and meat, a type of food.
+A photo of bread pudding. Bread pudding is a dessert made with stale bread, milk, and eggs, a type of food.
+A photo of a breakfast burrito. Breakfast burrito is a tortilla filled with eggs, meat, and cheese, a type of food.
+A photo of bruschetta. Bruschetta is toasted bread topped with tomatoes, basil, and olive oil, a type of food.
+A photo of Caesar salad. Caesar salad is a salad made with romaine lettuce, croutons, and Caesar dressing, a type of food.
+A photo of cannoli. Cannoli are Italian pastries filled with sweet ricotta cheese, a type of food.
+A photo of Caprese salad. Caprese salad is made with tomatoes, mozzarella cheese, and basil, a type of food.
+A photo of carrot cake. Carrot cake is a cake made with grated carrots and topped with cream cheese frosting, a type of food.
+A photo of ceviche. Ceviche is a dish made from raw fish cured in citrus juices, a type of food.
+A photo of a cheese plate. Cheese plate is an assortment of cheeses served with crackers or bread, a type of food.
+A photo of cheesecake. Cheesecake is a dessert with a creamy cheese filling on a crust, a type of food.
+A photo of chicken curry. Chicken curry is a dish made with chicken, curry spices, and sauce, a type of food.
+A photo of chicken quesadilla. Chicken quesadilla is a tortilla filled with chicken and cheese, a type of food.
+A photo of chicken wings. Chicken wings are fried or grilled chicken wings often served with sauce, a type of food.
+A photo of chocolate cake. Chocolate cake is a cake made with chocolate as a primary ingredient, a type of food.
+A photo of chocolate mousse. Chocolate mousse is a dessert made with whipped chocolate and cream, a type of food.
+A photo of churros. Churros are fried dough pastries sprinkled with sugar, a type of food.
+A photo of clam chowder. Clam chowder is a soup made with clams, potatoes, and cream, a type of food.
+A photo of a club sandwich. Club sandwich is a sandwich made with layers of bread, lettuce, tomato, bacon, and chicken or turkey, a type of food.
+A photo of crab cakes. Crab cakes are patties made from crab meat and breadcrumbs, often fried, a type of food.
+A photo of crème brûlée. Crème brûlée is a dessert with a rich custard base topped with caramelized sugar, a type of food.
+A photo of croque madame. Croque madame is a grilled ham and cheese sandwich topped with a fried egg, a type of food.
+A photo of cupcakes. Cupcakes are small cakes baked in individual portions and decorated with frosting, a type of food.
+A photo of deviled eggs. Deviled eggs are hard-boiled eggs filled with a mixture of yolk, mayonnaise, and mustard, a type of food.
+A photo of donuts. Donuts are deep-fried doughnuts often glazed or filled, a type of food.
+A photo of dumplings. Dumplings are small pieces of dough filled with meat, vegetables, or sweets, often steamed or fried, a type of food.
+A photo of edamame. Edamame are young soybeans served in their pods, often boiled or steamed, a type of food.
+A photo of eggs Benedict. Eggs Benedict is a breakfast dish made with poached eggs, ham, and hollandaise sauce on an English muffin, a type of food.
+A photo of escargots. Escargots are snails cooked with garlic butter and herbs, a type of food.
+A photo of falafel. Falafel is a deep-fried ball made from ground chickpeas or fava beans, a type of food.
+A photo of filet mignon. Filet mignon is a steak cut from the tenderloin of beef, a type of food.
+A photo of fish and chips. Fish and chips is a dish of battered fish with deep-fried potatoes, a type of food.
+A photo of foie gras. Foie gras is a luxury food product made of duck or goose liver, a type of food.
+A photo of French fries. French fries are deep-fried potato strips, a type of food.
+A photo of French onion soup. French onion soup is a soup made with caramelized onions and beef broth, topped with cheese and bread, a type of food.
+A photo of French toast. French toast is bread soaked in beaten eggs and then fried, a type of food.
+A photo of fried calamari. Fried calamari is squid coated in batter and deep-fried, a type of food.
+A photo of fried rice. Fried rice is a dish made with cooked rice, vegetables, and usually meat or eggs, stir-fried together, a type of food.
+A photo of frozen yogurt. Frozen yogurt is a dessert similar to ice cream but made with yogurt, a type of food.
+A photo of garlic bread. Garlic bread is bread topped with garlic and butter, often toasted or baked, a type of food.
+A photo of gnocchi. Gnocchi are Italian dumplings made from potatoes, flour, and egg, a type of food.
+A photo of Greek salad. Greek salad is a salad made with tomatoes, cucumbers, olives, feta cheese, and olive oil, a type of food.
+A photo of a grilled cheese sandwich. Grilled cheese sandwich is a sandwich made with melted cheese between slices of bread, grilled until golden brown, a type of food.
+A photo of grilled salmon. Grilled salmon is salmon fillet cooked on a grill, a type of food.
+A photo of guacamole. Guacamole is a dip made from mashed avocados mixed with lime juice, onions, tomatoes, and cilantro, a type of food.
+A photo of gyoza. Gyoza are Japanese dumplings filled with ground meat and vegetables, pan-fried and steamed, a type of food.
+A photo of a hamburger. Hamburger is a sandwich made with a grilled beef patty served in a bun, a type of food.
+A photo of hot and sour soup. Hot and sour soup is a Chinese soup made with spicy broth, tofu, mushrooms, and bamboo shoots, a type of food.
+A photo of a hot dog. Hot dog is a sausage served in a sliced bun, often topped with condiments, a type of food.
+A photo of huevos rancheros. Huevos rancheros is a Mexican breakfast dish made with eggs, tortillas, and salsa, a type of food.
+A photo of hummus. Hummus is a dip made from mashed chickpeas, tahini, lemon juice, and garlic, a type of food.
+A photo of ice cream. Ice cream is a frozen dessert made from cream, sugar, and flavorings, a type of food.
+A photo of lasagna. Lasagna is a baked Italian dish made with layers of pasta, meat, cheese, and tomato sauce, a type of food.
+A photo of lobster bisque. Lobster bisque is a creamy soup made from lobster meat and broth, a type of food.
+A photo of a lobster roll sandwich. Lobster roll is a sandwich filled with lobster meat and often served in a toasted roll, a type of food.
+A photo of macaroni and cheese. Macaroni and cheese is a dish made with cooked macaroni pasta and a cheese sauce, a type of food.
+A photo of macarons. Macarons are French meringue-based cookies filled with buttercream or ganache, a type of food.
+A photo of miso soup. Miso soup is a Japanese soup made with miso paste and dashi broth, often with tofu and seaweed, a type of food.
+A photo of mussels. Mussels are shellfish often steamed and served with broth, a type of food.
+A photo of nachos. Nachos are tortilla chips topped with melted cheese and often other toppings like meat, beans, and salsa, a type of food.
+A photo of an omelette. Omelette is a dish made from beaten eggs cooked with fillings like cheese, vegetables, and meat, a type of food.
+A photo of onion rings. Onion rings are battered and deep-fried onion slices, a type of food.
+A photo of oysters. Oysters are shellfish often served raw on the half shell or cooked, a type of food.
+A photo of Pad Thai. Pad Thai is a Thai stir-fried noodle dish with shrimp, tofu, or chicken, mixed with vegetables and peanuts, a type of food.
+A photo of paella. Paella is a Spanish rice dish cooked with saffron, vegetables, and often seafood or meat, a type of food.
+A photo of pancakes. Pancakes are flat cakes made from batter and fried, often served with syrup or fruit, a type of food.
+A photo of panna cotta. Panna cotta is an Italian dessert made with sweetened cream and gelatin, often topped with fruit or caramel sauce, a type of food.
+A photo of Peking duck. Peking duck is a Chinese dish of roasted duck with crispy skin, often served with pancakes, scallions, and hoisin sauce, a type of food.
+A photo of pho. Pho is a Vietnamese noodle soup with broth, rice noodles, herbs, and meat, often beef or chicken, a type of food.
+A photo of pizza. Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of dough topped with tomatoes, cheese, and various other ingredients, a type of food.
+A photo of a pork chop. Pork chop is a cut of meat from the loin of a pig, often grilled or fried, a type of food.
+A photo of poutine. Poutine is a Canadian dish made with fries topped with cheese curds and gravy, a type of food.
+A photo of prime rib. Prime rib is a cut of beef from the rib section, often roasted, a type of food.
+A photo of a pulled pork sandwich. Pulled pork sandwich is a sandwich filled with shredded pork, often with barbecue sauce, a type of food.
+A photo of ramen. Ramen is a Japanese noodle soup dish with broth, noodles, and toppings like sliced pork, egg, and green onions, a type of food.
+A photo of ravioli. Ravioli are Italian dumplings filled with cheese, meat, or vegetables, often served with sauce, a type of food.
+A photo of red velvet cake. Red velvet cake is a chocolate cake with a red or reddish-brown color, often frosted with cream cheese icing, a type of food.
+A photo of risotto. Risotto is an Italian rice dish cooked with broth, often with ingredients like mushrooms, seafood, or vegetables, a type of food.
+A photo of samosa. Samosa is a fried or baked pastry with a savory filling, often potatoes, peas, and spices, a type of food.
+A photo of sashimi. Sashimi is thinly sliced raw fish or seafood served without rice, a type of food.
+A photo of scallops. Scallops are shellfish often pan-seared or grilled and served with sauce, a type of food.
+A photo of seaweed salad. Seaweed salad is a Japanese dish made from various types of seaweed, often seasoned with vinegar and sesame oil, a type of food.
+A photo of shrimp and grits. Shrimp and grits is a Southern dish made with shrimp served over creamy grits, a type of food.
+A photo of spaghetti Bolognese. Spaghetti Bolognese is pasta with a meat-based sauce originating from Bologna, Italy, a type of food.
+A photo of spaghetti carbonara. Spaghetti carbonara is pasta with a sauce made from eggs, cheese, bacon, and black pepper, a type of food.
+A photo of spring rolls. Spring rolls are Asian appetizers with a filling of vegetables, meat, or seafood wrapped in a thin dough and fried, a type of food.
+A photo of steak. Steak is a cut of beef cooked by frying, grilling, or broiling, a type of food.
+A photo of strawberry shortcake. Strawberry shortcake is a dessert made with layers of sponge cake or biscuit, strawberries, and whipped cream, a type of food.
+A photo of sushi. Sushi is a Japanese dish consisting of small balls or rolls of vinegar-flavored cold cooked rice served with a garnish of raw fish, vegetables, or egg, a type of food.
+A photo of tacos. Tacos are Mexican dishes consisting of a folded or rolled tortilla filled with various mixtures, often including meat, vegetables, and cheese, a type of food.
+A photo of takoyaki. Takoyaki are Japanese octopus balls made of batter filled with diced octopus, pickled ginger, and green onion, topped with takoyaki sauce and mayonnaise, a type of food.
+A photo of tiramisu. Tiramisu is an Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa, a type of food.
+A photo of tuna tartare. Tuna tartare is finely chopped raw tuna seasoned with spices and served as an appetizer, a type of food.
+A photo of waffles. Waffles are batter-based cakes cooked in a waffle iron, often served with syrup or fruit, a type of food.
+A photo of a Shiba Dog. Shiba Dog is a small to medium-sized breed with a fox-like appearance, erect ears, and a curly tail, a type of dog.
+A photo of a French Bulldog. French Bulldog is a small breed with bat-like ears, a compact body, and a smushed face, a type of dog.
+A photo of a Siberian Husky. Siberian Husky is a medium-sized breed with a thick double coat, erect ears, and striking blue or brown eyes, a type of dog.
+A photo of a Malamute. Malamute is a large breed with a dense, fluffy coat, erect ears, and a wolf-like appearance, a type of dog.
+A photo of a Pomeranian dog. The dog is small with a fluffy double coat, typically orange, cream, black, or white. It has a fox-like face with a short muzzle, dark round eyes, and perky ears. Its tail is bushy and curls over its back. The dog has a lively expression and a compact, sturdy body.
+A photo of an Airedale. Airedale is a large breed with a wiry coat, V-shaped ears, and a long, squared-off muzzle, a type of dog.
+A photo of a Miniature Poodle. Miniature Poodle is a small breed with curly, dense fur and an elegant appearance, a type of dog.
+A photo of an Affenpinscher. Affenpinscher is a small breed with a shaggy coat, bushy eyebrows, and a monkey-like face, a type of dog.
+A photo of a Schipperke. Schipperke is a small breed with a dense black coat, pointed ears, and a fox-like face, a type of dog.
+A photo of an Australian Terrier. Australian Terrier is a small breed with a rough coat, erect ears, and a docked tail, a type of dog.
+A photo of a Welsh Springer Spaniel. Welsh Springer Spaniel is a medium-sized breed with a silky red and white coat, floppy ears, and a friendly face, a type of dog.
+A photo of a Curly Coated Retriever. Curly Coated Retriever is a large breed with tight curls, a sleek body, and a confident stance, a type of dog.
+A photo of a Staffordshire Bull Terrier. Staffordshire Bull Terrier is a muscular breed with a short coat, broad head, and strong jaws, a type of dog.
+A photo of a Norwich Terrier. Norwich Terrier is a small breed with a wiry coat, prick ears, and a foxy expression, a type of dog.
+A photo of a Tibetan Terrier. Tibetan Terrier is a medium-sized breed with a long, shaggy coat, bushy eyebrows, and a friendly demeanor, a type of dog.
+A photo of an English Setter. English Setter is a medium to large breed with a silky, feathered coat, long ears, and a gentle expression, a type of dog.
+A photo of a Norfolk Terrier. Norfolk Terrier is a small breed with a wiry coat, drop ears, and a compact body, a type of dog.
+A photo of a Pembroke Welsh Corgi. Pembroke Welsh Corgi is a small breed with a foxy face, short legs, and a long body, a type of dog.
+A photo of a Tibetan Mastiff. Tibetan Mastiff is a giant breed with a thick, lion-like mane, deep-set eyes, and a powerful build, a type of dog.
+A photo of a Border Terrier. Border Terrier is a small breed with a wiry coat, V-shaped ears, and an otter-like head, a type of dog.
+A photo of a Great Dane. Great Dane is a giant breed with a sleek coat, long legs, and a noble appearance, a type of dog.
+A photo of a Scotch Terrier (Scottish Terrier). Scotch Terrier is a small breed with a wiry coat, pointy ears, and a sturdy build, a type of dog.
+A photo of a Flat-Coated Retriever. Flat-Coated Retriever is a medium to large breed with a glossy black or liver-colored coat, floppy ears, and a friendly face, a type of dog.
+A photo of a Saluki. Saluki is a medium to large breed with a slender body, long legs, and a graceful appearance, a type of dog.
+A photo of an Irish Setter. Irish Setter is a medium to large breed with a rich, red coat, long ears, and a playful expression, a type of dog.
+A photo of a Blenheim Spaniel (Cavalier King Charles Spaniel). Blenheim Spaniel is a small breed with a silky, tricolor coat, floppy ears, and a gentle expression, a type of dog.
+A photo of an Irish Terrier. Irish Terrier is a medium-sized breed with a wiry, red coat, prick ears, and a spirited demeanor, a type of dog.
+A photo of a Bloodhound. Bloodhound is a large breed with droopy skin, long ears, and a keen sense of smell, a type of dog.
+A photo of a Redbone Coonhound. Redbone Coonhound is a medium to large breed with a sleek, red coat, floppy ears, and a determined expression, a type of dog.
+A photo of a West Highland White Terrier. West Highland White Terrier is a small breed with a white, double coat, erect ears, and a bright-eyed expression, a type of dog.
+A photo of a Brussels Griffon (Brabancon Griffon). Brussels Griffon is a small breed with a wiry or smooth coat, big eyes, and a beard-like face, a type of dog.
+A photo of a Dhole (Indian Wild Dog). Dhole is a wild dog species with a reddish-brown coat, rounded ears, and a pack-hunting behavior, a type of dog.
+A photo of a Kelpie. Kelpie is a medium-sized breed with a short coat, pointed ears, and a keen expression, a type of dog.
+A photo of a Doberman Pinscher. Doberman Pinscher is a large breed with a sleek coat, cropped ears, and a muscular build, a type of dog.
+A photo of an Ibizan Hound. Ibizan Hound is a medium-sized breed with a slender body, large ears, and a graceful appearance, a type of dog.
+A photo of a Vizsla. Vizsla is a medium-sized breed with a short, rusty-gold coat, floppy ears, and a lively expression, a type of dog.
+A photo of a Cairn Terrier. Cairn Terrier is a small breed with a shaggy coat, pointy ears, and a fox-like expression, a type of dog.
+A photo of a German Shepherd. German Shepherd is a large breed with a dense double coat, erect ears, and a confident stance, a type of dog.
+A photo of an African Wild Dog. African Wild Dog is a wild canine with a colorful coat, large ears, and a pack-hunting behavior, a type of dog.
+A photo of a Dandie Dinmont Terrier. Dandie Dinmont Terrier is a small breed with a unique topknot, long body, and short legs, a type of dog.
+A photo of a Sealyham Terrier. Sealyham Terrier is a small breed with a white, wiry coat, folded ears, and a sturdy build, a type of dog.
+A photo of a German Shorthaired Pointer. German Shorthaired Pointer is a medium to large breed with a sleek coat, floppy ears, and a athletic build, a type of dog.
+A photo of a Bernese Mountain Dog. Bernese Mountain Dog is a large breed with a tri-colored coat, floppy ears, and a gentle expression, a type of dog.
+A photo of a Saint Bernard. Saint Bernard is a giant breed with a dense coat, droopy jowls, and a friendly demeanor, a type of dog.
+A photo of a Leonberger. Leonberger is a giant breed with a lion-like mane, deep chest, and a majestic appearance, a type of dog.
+A photo of a Bedlington Terrier. Bedlington Terrier is a small breed with a curly, lamb-like coat, rounded ears, and a pear-shaped head, a type of dog.
+A photo of a Newfoundland. Newfoundland is a giant breed with a thick, water-resistant coat, webbed feet, and a gentle expression, a type of dog.
+A photo of a Lhasa Apso. Lhasa Apso is a small breed with a long, flowing coat, deep-set eyes, and a dignified demeanor, a type of dog.
+A photo of a Chesapeake Bay Retriever. Chesapeake Bay Retriever is a medium to large breed with a wavy coat, webbed feet, and a sturdy build, a type of dog.
+A photo of a Lakeland Terrier. Lakeland Terrier is a small breed with a wiry coat, V-shaped ears, and a confident stance, a type of dog.
+A photo of a Treeing Walker Coonhound. Treeing Walker Coonhound is a medium to large breed with a sleek coat, long ears, and a determined expression, a type of dog.
+A photo of an American Staffordshire Terrier. American Staffordshire Terrier is a muscular breed with a short coat, broad head, and a strong jaw, a type of dog.
+A photo of an Otterhound. Otterhound is a large breed with a rough, water-resistant coat, webbed feet, and a shaggy appearance, a type of dog.
+A photo of a Sussex Spaniel. Sussex Spaniel is a medium-sized breed with a golden liver coat, droopy ears, and a friendly expression, a type of dog.
+A photo of a Norwegian Elkhound. Norwegian Elkhound is a medium-sized breed with a thick, silver-grey coat, erect ears, and a wolf-like appearance, a type of dog.
+A photo of a Bluetick Coonhound. Bluetick Coonhound is a medium to large breed with a speckled blue and black coat, floppy ears, and a determined expression, a type of dog.
+A photo of a Dingo. Dingo is a wild dog species with a sandy or reddish coat, pointed ears, and a bushy tail, a type of dog.
+A photo of an Irish Water Spaniel. Irish Water Spaniel is a medium-sized breed with a curly, liver-colored coat, topknot, and webbed feet, a type of dog.
+A photo of a Samoyed. Samoyed is a medium to large breed with a fluffy white coat, erect ears, and a smiling expression, a type of dog.
+A photo of a Fila Brasileiro (Brazilian Mastiff). Fila Brasileiro is a large breed with a short coat, loose skin, and a powerful build, a type of dog.
+A photo of a Standard Schnauzer. Standard Schnauzer is a medium-sized breed with a wiry coat, bushy eyebrows, and a square build, a type of dog.
+A photo of a Mexican Hairless Dog (Xoloitzcuintli). Mexican Hairless Dog is a breed with smooth or coated varieties, large ears, and a graceful appearance, a type of dog.
+A photo of an Entlebucher Mountain Dog. Entlebucher Mountain Dog is a medium-sized breed with a tricolor coat, floppy ears, and a sturdy build, a type of dog.
+A photo of an Afghan Hound. Afghan Hound is a large breed with a long, silky coat, topknot, and a regal appearance, a type of dog.
+A photo of a Kuvasz. Kuvasz is a large breed with a white, double coat, floppy ears, and a majestic appearance, a type of dog.
+A photo of an English Foxhound. English Foxhound is a medium to large breed with a short, glossy coat, long ears, and a determined expression, a type of dog.
+A photo of a Keeshond. Keeshond is a medium-sized breed with a thick, grey coat, pointy ears, and a fox-like face, a type of dog.
+A photo of an Irish Wolfhound. Irish Wolfhound is a giant breed with a wiry coat, long legs, and a gentle expression, a type of dog.
+A photo of a Scottish Deerhound. Scottish Deerhound is a large breed with a wiry coat, long legs, and a dignified appearance, a type of dog.
+A photo of a Rottweiler. Rottweiler is a large breed with a short, black and tan coat, floppy ears, and a powerful build, a type of dog.
+A photo of a Black and Tan Coonhound. Black and Tan Coonhound is a medium to large breed with a glossy black and tan coat, long ears, and a determined expression, a type of dog.
+A photo of a Great Pyrenees. Great Pyrenees is a giant breed with a thick white coat, floppy ears, and a majestic appearance, a type of dog.
+A photo of a Boxer. Boxer is a medium to large breed with a short, fawn or brindle coat, floppy ears, and a strong build, a type of dog.
+A photo of a Wire Fox Terrier. Wire Fox Terrier is a small breed with a wiry coat, V-shaped ears, and a keen expression, a type of dog.
+A photo of a Borzoi. Borzoi is a large breed with a silky coat, long legs, and a graceful appearance, a type of dog.
+A photo of a Belgian Groenendael. Belgian Groenendael is a medium to large breed with a long, black coat, pointed ears, and a regal appearance, a type of dog.
+A photo of a Collie. Collie is a medium to large breed with a long, flowing coat, pointy ears, and a gentle expression, a type of dog.
+A photo of a Gordon Setter. Gordon Setter is a large breed with a shiny black and tan coat, floppy ears, and a noble appearance, a type of dog.
+A photo of a Kerry Blue Terrier. Kerry Blue Terrier is a medium-sized breed with a soft, curly blue coat, floppy ears, and a friendly expression, a type of dog.
+A photo of a Briard. Briard is a large breed with a long, wavy coat, bushy eyebrows, and a dignified demeanor, a type of dog.
+A photo of a Rhodesian Ridgeback. Rhodesian Ridgeback is a large breed with a short, wheaten to red coat, floppy ears, and a distinctive ridge along the back, a type of dog.
+A photo of a Boston Terrier. Boston Terrier is a small breed with a sleek coat, tuxedo markings, and a friendly expression, a type of dog.
+A photo of a Bullmastiff. Bullmastiff is a large breed with a short coat, wrinkled face, and a powerful build, a type of dog.
+A photo of a Silky Terrier. Silky Terrier is a small breed with a silky, blue and tan coat, erect ears, and a confident expression, a type of dog.
+A photo of a Brittany Spaniel. Brittany Spaniel is a medium-sized breed with a dense, orange and white or liver and white coat, floppy ears, and a lively expression, a type of dog.
+A photo of an American Eskimo Dog. American Eskimo Dog is a small to medium-sized breed with a fluffy white coat, pointy ears, and a fox-like face, a type of dog.
+A photo of a Giant Schnauzer. Giant Schnauzer is a large breed with a wiry coat, bushy eyebrows, and a robust build, a type of dog.
+A photo of a Belgian Malinois. Belgian Malinois is a medium to large breed with a short, fawn to mahogany coat, pointy ears, and a athletic build, a type of dog.
+A photo of a Bouvier des Flandres. Bouvier des Flandres is a large breed with a thick, curly coat, bushy eyebrows, and a sturdy build, a type of dog.
+A photo of a Whippet. Whippet is a medium-sized breed with a sleek, short coat, long legs, and a graceful appearance, a type of dog.
+A photo of an Appenzeller Sennenhund. Appenzeller Sennenhund is a medium-sized breed with a tricolor coat, floppy ears, and a sturdy build, a type of dog.
+A photo of a Chinese Crested Dog. Chinese Crested Dog is a breed with either a hairless or a silky, tufted coat, large ears, and a graceful appearance, a type of dog.
+A photo of a Miniature Schnauzer. Miniature Schnauzer is a small breed with a wiry coat, bushy eyebrows, and a square build, a type of dog.
+A photo of a Soft Coated Wheaten Terrier. Soft Coated Wheaten Terrier is a medium-sized breed with a soft, wheaten-colored coat, floppy ears, and a playful expression, a type of dog.
+A photo of a Weimaraner. Weimaraner is a large breed with a short, silver-grey coat, floppy ears, and a sleek appearance, a type of dog.
+A photo of a Clumber Spaniel. Clumber Spaniel is a large breed with a dense, white coat, floppy ears, and a dignified demeanor, a type of dog.
+A photo of a Greater Swiss Mountain Dog. Greater Swiss Mountain Dog is a large breed with a tricolor coat, floppy ears, and a sturdy build, a type of dog.
+A photo of a Toy Fox Terrier. Toy Fox Terrier is a small breed with a short, sleek coat, pointy ears, and a lively expression, a type of dog.
+A photo of an Italian Greyhound. Italian Greyhound is a small breed with a sleek, short coat, long legs, and a graceful appearance, a type of dog.
+A photo of a Basset Hound. Basset Hound is a medium-sized breed with a short, droopy coat, long ears, and a sad expression, a type of dog.
+A photo of a Basenji. Basenji is a small breed with a short, red or black and white coat, pointy ears, and a curly tail, a type of dog.
+A photo of an Australian Shepherd. Australian Shepherd is a medium to large breed with a medium-length, blue or red merle coat, floppy ears, and a bobbed tail, a type of dog.
+A photo of a Maltese. Maltese is a small breed with a long, silky white coat, floppy ears, and a delicate appearance, a type of dog.
+A photo of a Japanese Chin. Japanese Chin is a small breed with a silky, black and white coat, large, round eyes, and a flat face, a type of dog.
+A photo of a Cane Corso. Cane Corso is a large breed with a short coat, muscular build, and a serious expression, a type of dog.
+A photo of a Japanese Spitz dog. The dog is small to medium-sized with a pure white, fluffy double coat. It has a pointed muzzle, dark almond-shaped eyes, and small, triangular erect ears. Its tail is bushy and curls over its back.
+A photo of an Old English Sheepdog. Old English Sheepdog is a large breed with a shaggy, grey and white coat, floppy ears, and a playful demeanor, a type of dog.
+A photo of a Black and Sable German Shepherd. Black and Sable German Shepherd is a large breed with a black and tan or sable coat, erect ears, and a confident stance, a type of dog.
+A photo of a Border Collie. Border Collie is a medium-sized breed with a medium-length, black and white or red and white coat, floppy or erect ears, and an alert expression, a type of dog.
+A photo of a Shetland Sheepdog. Shetland Sheepdog is a small to medium-sized breed with a long, flowing coat, pointy ears, and a bright-eyed expression, a type of dog.
+A photo of an English Springer Spaniel. English Springer Spaniel is a medium-sized breed with a medium-length, liver and white or black and white coat, floppy ears, and a friendly expression, a type of dog.
+A photo of a Beagle. Beagle is a small to medium-sized breed with a short, tricolor coat, long ears, and a friendly expression, a type of dog.
+A photo of an American Cocker Spaniel. American Cocker Spaniel is a small to medium-sized breed with a medium-length, wavy coat, long ears, and a merry expression, a type of dog.
+A photo of a Cardigan Welsh Corgi. Cardigan Welsh Corgi is a small to medium-sized breed with a foxy face, long body, and short legs, a type of dog.
+A photo of a Toy Poodle. Toy Poodle is a small breed with a curly, dense coat, fluffy ears, and an elegant appearance, a type of dog.
+A photo of a Bichon Frise. Bichon Frise is a small breed with a curly, white coat, black eyes, and a cheerful expression, a type of dog.
+A photo of a Standard Poodle. Standard Poodle is a large breed with a curly, dense coat, elegant appearance, and an alert expression, a type of dog.
+A photo of a Komondor. Komondor is a large breed with a distinctive white, corded coat, robust build, and a serious demeanor, a type of dog.
+A photo of a Chow Chow. Chow Chow is a medium to large breed with a dense, lion-like mane, blue-black tongue, and a sturdy build, a type of dog.
+A photo of a Chinese Rural Dog. Chinese Rural Dog is a breed with a variety of coat types and colors, floppy ears, and a sturdy build, a type of dog.
+A photo of a Yorkshire Terrier. Yorkshire Terrier is a small breed with a silky, blue and tan coat, erect ears, and a confident expression, a type of dog.
+A photo of a Labrador Retriever. Labrador Retriever is a medium to large breed with a short, dense coat, floppy or erect ears, and an athletic build, a type of dog.
+A photo of a Shih Tzu. Shih Tzu is a small breed with a long, flowing coat, flat face, and a dignified demeanor, a type of dog.
+A photo of a Chihuahua. Chihuahua is a tiny breed with a short or long coat, large ears, and a spirited demeanor, a type of dog.
+A photo of a Pekingese. Pekingese is a small breed with a long, flowing coat, flat face, and a regal appearance, a type of dog.
+A photo of a Golden Retriever. Golden Retriever is a medium to large breed with a dense, golden coat, floppy ears, and a friendly expression, a type of dog.
+A photo of a Miniature Pinscher. Miniature Pinscher is a small breed with a short, sleek coat, pointy ears, and a spirited demeanor, a type of dog.
+A photo of a Teddy Bear Dog (Designer Breed). Teddy Bear Dog is a small breed with a fluffy coat,t, round face, and a cute appearance, a type of dog.
+A photo of a Pug. Pug is a small breed with a short, wrinkled face, curly tail, and a playful expression, a type of dog.
+A photo of a Papillon dog.The dog is a small breed. It has large, distinctive butterfly-like ears fringed with hair, dark round eyes, and a short, delicate muzzle. Its coat is predominantly white with striking patches of color, such as black, brown, or red. 
+A photo of a 2012 Audi TTS Coupe. Audi TTS Coupe is a two-door sports car with a low, wide stance, rounded front grille, and sharp headlights, a type of car.
+A photo of a 2012 Audi R8 Coupe. Audi R8 Coupe is a low-profile two-door car with wide rear fenders, a large front grille, and visible air intakes, a type of car.
+A photo of a 2012 BMW X6 SUV. BMW X6 SUV is a mid-size SUV with a sloping roofline, four doors, a prominent front grille, and large wheels, a type of car.
+A photo of a 2012 Chevrolet Corvette Convertible. Chevrolet Corvette Convertible is a two-door sports car with a long hood, low roofline, and wide rear, a type of car.
+A photo of a 2007 Chevrolet Corvette Ron Fellows Edition Z06. Chevrolet Corvette Z06 is a two-door sports car with a sleek, aerodynamic shape, flared fenders, and distinctive stripes, a type of car.
+A photo of a 2012 Chevrolet Avalanche Crew Cab. Chevrolet Avalanche is a large pickup truck with four doors, a squared-off front end, and a short cargo bed, a type of car.
+A photo of a 2009 Chrysler Aspen SUV. Chrysler Aspen is a full-size SUV with a boxy shape, four doors, a tall roofline, and a chrome grille, a type of car.
+A photo of a 2008 Chrysler Crossfire Convertible. Chrysler Crossfire Convertible is a two-door car with a short, sloping rear, wide stance, and retractable roof, a type of car.
+A photo of a 2008 Chrysler PT Cruiser Convertible. Chrysler PT Cruiser Convertible is a compact car with a rounded body, retro design, and a soft top, a type of car.
+A photo of a 2009 Dodge Ram Pickup 3500 Quad Cab. Dodge Ram 3500 is a large pickup truck with a massive front grille, four doors, and a long cargo bed, a type of car.
+A photo of a 2009 Dodge Charger SRT-8. Dodge Charger SRT-8 is a four-door sedan with a muscular body, bold front grille, and wide stance, a type of car.
+A photo of a 2012 FIAT 500 Abarth. FIAT 500 Abarth is a small, two-door car with a compact, rounded body, short hood, and distinctive front fascia, a type of car.
+A photo of a 2011 Ford Ranger SuperCab. Ford Ranger SuperCab is a mid-size pickup truck with two doors, extended cab, short cargo bed, and a boxy shape, a type of car.
+A photo of a 2007 Ford F-150 Regular Cab. Ford F-150 Regular Cab is a full-size pickup truck with two doors, large front grille, and a long cargo bed, a type of car.
+A photo of a 2012 Ford Fiesta Sedan. Ford Fiesta Sedan is a compact four-door car with a sloping roofline, short front hood, and small front grille, a type of car.
+A photo of a 2012 GMC Canyon Extended Cab. GMC Canyon Extended Cab is a mid-size pickup truck with two doors, an extended cab, and a short cargo bed, a type of car.
+A photo of a 2009 HUMMER H2 SUT Crew Cab. HUMMER H2 SUT is a large SUV with a boxy shape, four doors, and a short cargo bed, a type of car.
+A photo of a 2012 Infiniti G Coupe IPL. Infiniti G Coupe IPL is a two-door car with a low, wide stance, short rear, and aggressive front fascia, a type of car.
+A photo of a 2011 Mazda Tribute SUV. Mazda Tribute is a compact SUV with four doors, a rounded body, and a tall roofline, a type of car.
+A photo of a 2012 Mercedes-Benz C-Class Sedan. Mercedes-Benz C-Class is a four-door sedan with a long hood, short rear, and prominent front grille, a type of car.
+A photo of a 2012 Mitsubishi Lancer Sedan. Mitsubishi Lancer is a four-door car with a low profile, short hood, and angular headlights, a type of car.
+A photo of a 1998 Nissan 240SX Coupe. Nissan 240SX is a two-door coupe with a low stance, wide rear fenders, and a sloping rear end, a type of car.
+A photo of a 1999 Plymouth Neon Coupe. Plymouth Neon is a small, two-door car with a rounded body, short hood, and simple front grille, a type of car.
+A photo of a 2012 Rolls-Royce Phantom Sedan. Rolls-Royce Phantom is a large, four-door sedan with a tall, squared-off front end, long hood, and wide rear, a type of car.
+A photo of a 2009 Spyker C8 Coupe. Spyker C8 is a two-door sports car with a low, wide body, exposed rear engine, and angular front end, a type of car.
+A photo of a 2012 Toyota Sequoia SUV. Toyota Sequoia is a large SUV with a boxy shape, four doors, tall roofline, and wide stance, a type of car.
+A photo of a 2012 Toyota 4Runner SUV. Toyota 4Runner is a mid-size SUV with a squared-off body, four doors, tall roof, and large wheels, a type of car.
+A photo of a 2012 Volkswagen Golf Hatchback. Volkswagen Golf is a compact hatchback with two or four doors, short front end, and rounded rear, a type of car.
+A photo of a 2012 Volvo C30 Hatchback. Volvo C30 is a compact car with a two-door hatchback design, short rear, and distinctive rear window, a type of car.

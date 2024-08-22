@@ -1,0 +1,24 @@
+root_path: "caches"
+alpha: 0.5
+alphatip: 2.0
+# ------ Basic Config ------
+dataset: 'trainset'
+shots: 4
+clip_backbone: 'ViT-B-32' # ['RN50', 'RN101', 'RN50x4', 'RN50x16', 'ViT-B-32', 'ViT-B-16']
+exp_name: test_4_shot
+
+lr: 0.001
+augment_epoch: 10
+
+num_classes: 374
+rand_seed: 42
+
+
+lambda_merge: 0.3
+train_epoch: 50
+#测试集验证集加载
+load_pre_feat: True
+load_aux_weight: True
+load_cache: True
+
+
