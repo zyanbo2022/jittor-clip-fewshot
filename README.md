@@ -39,7 +39,7 @@ pip install -r requirements.txt
 将数据下载并解压到 `<root>/caches` ，也可在bash中修改路径：
 
 - 1.训练集caches/TrainSet
-- 2.测试集集caches/TestSetA
+- 2.测试集caches/TestSetB
 
 
 ## 训练
